@@ -1,4 +1,4 @@
-package com.greenbeen;
+package com.example.greenbeen;
 
 import android.content.Intent;
 import android.os.Bundle;

@@ -6,27 +6,26 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.greenbeen.HomeFragment"
+        android:name="com.example.greenbeen.HomeFragment"
         android:label="Home" />
 
     <fragment
         android:id="@+id/checkerFragment"
-        android:name="com.greenbeen.CheckerFragment"
+        android:name="com.example.greenbeen.CheckerFragment"
         android:label="Checker" />
 
     <fragment
         android:id="@+id/centersFragment"
-        android:name="com.greenbeen.CentersFragment"
+        android:name="com.example.greenbeen.CentersFragment"
         android:label="Centers" />
 
     <fragment
         android:id="@+id/learnFragment"
-        android:name="com.greenbeen.LearnFragment"
+        android:name="com.example.greenbeen.LearnFragment"
         android:label="Learn" />
 
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.greenbeen.ProfileFragment"
+        android:name="com.example.greenbeen.ProfileFragment"
         android:label="Profile" />
-
 </navigation>

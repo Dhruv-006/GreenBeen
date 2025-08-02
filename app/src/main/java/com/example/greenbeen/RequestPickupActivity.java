@@ -1,4 +1,4 @@
-package com.greenbeen;
+package com.example.greenbeen;
 
 import android.os.Bundle;
 import android.widget.Button;

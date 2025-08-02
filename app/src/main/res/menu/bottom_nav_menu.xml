@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/checkerFragment"
+        android:title="Checker"
+        android:icon="@drawable/ic_check"/>
+    <item
+        android:id="@+id/centersFragment"
+        android:title="Centers"
+        android:icon="@drawable/ic_location"/>
+    <item
+        android:id="@+id/learnFragment"
+        android:title="Learn"
+        android:icon="@drawable/ic_info"/>
+    <item
+        android:id="@+id/profileFragment"
+        android:title="Profile"
+        android:icon="@drawable/ic_user"/>
+</menu>
